@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**feelnin/feelnin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on development of data science skills 
 - 🌱 I’m currently learning machine learning, research Data Management and Sharing (Stanford University, USP, University of North Carolina at Chapel Hill)
